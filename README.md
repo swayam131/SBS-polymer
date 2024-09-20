@@ -1,3 +1,13 @@
 # SBS-polymer
 
-The project is to find string and binders switch (SBS) model to check various effects of TAD architectures. The repository has lammps input file and data file to create SBS polymer model and the fortran and python scripts to analyse the lammps trajectory files.
+This repository focuses on using the String and Binders Switch (SBS) model to study the effects of Topologically Associating Domain (TAD) architectures.
+
+Contents
+
+SBS Polymer Model Creation:
+
+LAMMPS input and data files for constructing the SBS polymer model.
+
+Analysis Tools:
+
+Fortran and Python scripts for analyzing LAMMPS trajectory files, enabling in-depth investigation of TAD architecture effects.
